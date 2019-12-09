@@ -2,8 +2,7 @@
 使用七牛云做图片服务器
 
 # 使用步骤：
-在浏览器输入：localhost:8099/index 后打开上传页面
-由于目前文件类型已经在FileUtil类中限定，所以只能按要求选择合适的文件上传。
+在浏览器输入：localhost:8099/index 后打开上传页面，由于目前文件类型已经在FileUtil类中限定，所以只能按要求选择合适的文件上传。
 
 ```java
 public class FileUtil {
